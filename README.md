@@ -1,10 +1,8 @@
- <h1 align="center">Hi 👋, I'm Harpreet Kaur Gill</h1>
+<h1 align="center">Hi 👋, I'm Harpreet Kaur Gill</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://static.vecteezy.com/system/resources/thumbnails/049/169/388/small/young-woman-working-on-laptop-at-home-freelance-remote-work-online-education-concept-illustration-in-flat-style-free-vector.jpg" alt="html5" width="400" align="right" />
 
-<img src="https://komarev.com/ghpvc/?username=niranjan65&label=Profile%20views&color=0e75b6&style=flat" width="400" align="right" />
-
-<p align="left"> <img alt="harpreet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan65&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan65" />
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
