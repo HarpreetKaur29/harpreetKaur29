@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="html5" width="400" align="right" />
 
-<p align="left"> <img src=https://static.vecteezy.com/system/resources/thumbnails/049/169/388/small/young-woman-working-on-laptop-at-home-freelance-remote-work-online-education-concept-illustration-in-flat-style-free-vector.jpg alt="harpreet" /> </p>
+<p align="left"> <img alt="harpreet" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/niranjan-singh-84a58821b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-singh-84a58821b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/niranjan-singh-84a58821b" target="blank"><img align="center" src=https://static.vecteezy.com/system/resources/thumbnails/049/169/388/small/young-woman-working-on-laptop-at-home-freelance-remote-work-online-education-concept-illustration-in-flat-style-free-vector.jpg alt="niranjan-singh-84a58821b" height="30" width="40" /></a>
 <a href="https://instagram.com/_itzz_niranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itzz_niranjan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/niranjansinghhh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niranjansinghhh16" height="30" width="40" /></a>
 </p>
