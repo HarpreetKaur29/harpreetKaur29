@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="html5" width="400" align="right" />
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=harpreet&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/userupload/11351188/file/original-1ec0dc4c716e51ef5d755438900c68e0.png?resize=1200x800&vertical=center)" alt="harpreet" /> </p>
+<p align="left"> <img src=https://static.vecteezy.com/system/resources/thumbnails/049/169/388/small/young-woman-working-on-laptop-at-home-freelance-remote-work-online-education-concept-illustration-in-flat-style-free-vector.jpg alt="harpreet" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
