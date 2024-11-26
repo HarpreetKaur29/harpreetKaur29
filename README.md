@@ -2,19 +2,17 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="html5" width="400" align="right" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harpreet&label=Profile%20views&color=0e75b6&style=flat" alt="harpreet" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=harpreet&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/userupload/11351188/file/original-1ec0dc4c716e51ef5d755438900c68e0.png?resize=1200x800&vertical=center)" alt="harpreet" /> </p>
 
 - 🌱 I’m currently learning **Typescript, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://porfolio-niranjan.vercel.app/](https://porfolio-niranjan.vercel.app/)
-
 - 💬 Ask me about **React Js, Sql,**
 
-- 📫 How to reach me **niranjansinghhh16@gmail.com**
+- 📫 How to reach me **harpreetkaurg29@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_-PBlj77ofsdGrnAu8cr8x1RMdb5-EBs/view?usp=drive_link](https://drive.google.com/file/d/1_-PBlj77ofsdGrnAu8cr8x1RMdb5-EBs/view?usp=drive_link)
 
-- ⚡ Hobby **Cricket**
+- ⚡ Hobby **Reading Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
